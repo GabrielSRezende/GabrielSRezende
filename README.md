@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    💻 Atualmente trabalho com desenvolviemnto de sistemas<br>
+    💻 Atualmente trabalho com desenvolvimento de sistemas<br>
     📚 Técnico de desenvolvimento de sistemas e estudante de sistemas de informação
 </div>
 
