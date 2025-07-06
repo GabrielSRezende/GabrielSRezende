@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  💼 6 anos de experiência em TI (3 como dev) <br>
+  💼 7 anos de experiência em TI (4 como dev) <br>
   🚀 Foco em soluções modernas e sistemas legados <br>
   📍 Atualmente: Desenvolvedor Full Stack Pleno (.NET + Angular) <br>
   🎓 Estudante de Sistemas de Informação | Técnico em Desenvolvimento de Sistemas
